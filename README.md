@@ -10,4 +10,4 @@ Also check my works of email templates:
 
 And wp theme: [Mioka](https://github.com/Lokusok/mioka-wp-theme)
 
-### And you can see [all my works](https://github.com/DmiDrok/frontend-projects) at my first github account.
+### And you can see [all my works](https://github.com/DmiDrok/frontend-projects) at my first github account (DmiDrok, https://github.com/DmiDrok/frontend-projects).
