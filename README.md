@@ -2,6 +2,7 @@
 
 #### You can see my portfolio on my pins at this account.
 
+![Codewars](https://github.r2v.ch/codewars?user=Lokusok)
 
 Also check my works of email templates:
 - [First email layout](https://github.com/Lokusok/email-template-1)
