@@ -11,8 +11,8 @@ And wp theme: [Mioka](https://github.com/Lokusok/mioka-wp-theme)
 
 Now I'm learning React and getting to know its ecosystem.
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div style="display: flex; align-items: flex-start">
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -82,8 +82,5 @@ Now I'm learning React and getting to know its ecosystem.
     
  </tr>
 </table>
-<br><br>
-
-
 </div>
 ### And you can see [all my works](https://github.com/DmiDrok/frontend-projects) at my first github account (DmiDrok, https://github.com/DmiDrok/frontend-projects).
