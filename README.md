@@ -19,20 +19,24 @@ Now I'm learning React and getting to know its ecosystem.
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="48" height="48" />
+      <br>Vite
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
+      <br>Next.JS
     </td>
   </tr>
   <tr>
@@ -45,8 +49,8 @@ Now I'm learning React and getting to know its ecosystem.
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=pug" width="48" height="48" alt="Pug" />
+      <br>Pug
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
@@ -55,6 +59,10 @@ Now I'm learning React and getting to know its ecosystem.
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gulp" width="48" height="48" alt="gulp" />
+      <br>Gulp
     </td>
   </tr>
  <tr>
@@ -76,11 +84,40 @@ Now I'm learning React and getting to know its ecosystem.
       <br>Sass
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
-    
- </tr>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+     </tr>
+   <tr>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+                <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MaterialUI" />
+      <br>Material UI
+    </td>
+                 <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
+      <br>Cypress
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+     </tr>
 </table>
 </div>
 
