@@ -14,9 +14,9 @@ Now I'm learning React and getting to know its ecosystem.
 <div style="display: flex; align-items: flex-start">
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+    <td align="center" width="126">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+      <br>React / React Native
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
@@ -31,7 +31,7 @@ Now I'm learning React and getting to know its ecosystem.
       <br>Vite
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="48" />
       <br>Webpack
     </td>
     <td align="center" width="96">
