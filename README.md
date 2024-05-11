@@ -41,12 +41,12 @@ Now I'm learning React and getting to know its ecosystem.
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="HTML5" />
+      <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="css" />
+      <br>Express
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pug" width="48" height="48" alt="Pug" />
