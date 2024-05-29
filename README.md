@@ -9,7 +9,7 @@ Also check my works of email templates:
 
 And wp theme: [Mioka](https://github.com/Lokusok/mioka-wp-theme)
 
-Now I'm learning React and getting to know its ecosystem.
+Now I'm learning React and getting to know its ecosystem. Also interested in the Next.js framework.
 
 <div style="display: flex; align-items: flex-start">
 <table>
@@ -36,7 +36,7 @@ Now I'm learning React and getting to know its ecosystem.
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
-      <br>Next.JS
+      <br>Next.js
     </td>
   </tr>
   <tr>
