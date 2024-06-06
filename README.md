@@ -72,7 +72,7 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <br>Node.js
       </td>
       </td>
     <td align="center" width="96">
