@@ -18,6 +18,10 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
       <br>React / React Native
     </td>
+    <td align="center" width="126">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="48" height="48" />
+      <br>Vue
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
       <br>JavaScript
@@ -41,8 +45,12 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
       <br>Redux
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=pinia" width="48" height="48" alt="Pinia" />
+      <br>Pinia
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="css" />
@@ -91,6 +99,10 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
+      <br>Electron
+    </td>
      </tr>
    <tr>
               <td align="center" width="96">
@@ -101,12 +113,16 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
         <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MaterialUI" />
       <br>Material UI
     </td>
+                  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vuetify" width="48" height="48" alt="Vuetify" />
+      <br>Vuetify
+    </td>
                  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       <br>MySQL
     </td>
      <td align="center" width="96">
