@@ -9,7 +9,9 @@ Also check my works of email templates:
 
 And wp theme: [Mioka](https://github.com/Lokusok/mioka-wp-theme)
 
-Now I'm learning React and getting to know its ecosystem. Also interested in the Next.js framework.
+Now I'm learning React and getting to know its ecosystem.
+<br>
+Also interested in the Next.js framework, Vue and Nuxt, a little in PHP :)
 
 <div style="display: flex; align-items: flex-start">
 <table>
