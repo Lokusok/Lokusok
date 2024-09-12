@@ -42,6 +42,10 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
         <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
       <br>Next.js
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="48" height="48" />
+      <br>Nuxt
+    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -71,6 +75,10 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gulp" width="48" height="48" alt="gulp" />
       <br>Gulp
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=alpinejs" width="48" height="48" alt="alpine" />
+      <br>Alpine.js
     </td>
   </tr>
  <tr>
@@ -103,6 +111,10 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
         <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
       <br>Electron
     </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
      </tr>
    <tr>
               <td align="center" width="96">
@@ -132,6 +144,10 @@ Now I'm learning React and getting to know its ecosystem. Also interested in the
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>jQuery
     </td>
      </tr>
 </table>
