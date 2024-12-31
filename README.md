@@ -9,9 +9,9 @@ Also check my works of email templates:
 
 And wp theme: [Mioka](https://github.com/Lokusok/mioka-wp-theme)
 
-Now I'm learning React and getting to know its ecosystem.
+Now I'm learning PHP and Laravel
 <br>
-Also interested in the Next.js framework, Vue and Nuxt, a little in PHP :)
+Also interested in the Symfony, Next.js framework, Vue and Nuxt
 
 <div style="display: flex; align-items: flex-start">
 <table>
@@ -152,6 +152,40 @@ Also interested in the Next.js framework, Vue and Nuxt, a little in PHP :)
       <br>jQuery
     </td>
      </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony" />
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+ </tr>
 </table>
 </div>
 
