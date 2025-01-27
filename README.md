@@ -9,9 +9,9 @@ Also check my works of email templates:
 
 And wp theme: [Mioka](https://github.com/Lokusok/mioka-wp-theme)
 
-Now I'm learning PHP and Laravel
+Now I'm working with PHP and Laravel.
 <br>
-Also interested in the Symfony, Next.js framework, Vue and Nuxt
+I am also interested in Symfony, Go, and metaframeworks in the JavaScript world.
 
 <div style="display: flex; align-items: flex-start">
 <table>
