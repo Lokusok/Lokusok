@@ -182,7 +182,7 @@ I am also interested in Symfony, Go, and metaframeworks in the JavaScript world.
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Ubuntu" />
       <br>Ubuntu
     </td>
  </tr>
